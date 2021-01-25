@@ -8,8 +8,7 @@
 - 📫 How to reach me: [Discord - @Momin#5959
 - 😄 Pronouns: He.
 
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Momin2005)
-[![website]working on
+website working on
 
 
 **Languages and Tools:**  
@@ -20,21 +19,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 <a href="https://github.com/Momin2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin2005&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin2005&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Momin2005">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Momin2005&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Momin2005&show_icons=true&theme=dark&line_height=27" alt="Momin's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/iampawan/AdvancedCalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Momin2005&repo=AdvancedCalculator&theme=dark" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
