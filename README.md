@@ -14,7 +14,7 @@ I don't have many repos that are public, but it's comming!
 
 **Languages and Tools:**  
 
-<code><img height="20"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/pyhton.png"></code>
+<code><img height="20"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">  </code>
@@ -24,4 +24,12 @@ I don't have many repos that are public, but it's comming!
 </a>
 <a href="https://github.com/iampawan/AdvancedCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Momin2005&repo=AdvancedCalculator&theme=dark" />
+ 
+
+<a href="https://github.com/Momin2005/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin2005&layout=compact&theme=radical&hide=php,css" />
+</a>
+  
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Momin2005.Momin2005)
 
