@@ -5,12 +5,10 @@
 - 🌱 I’m currently learning more about machine learning.
 - 🤔 I’m looking for help with AI.
 - 💬 Ask me about Python or any games related stuff.
-- 📫 How to reach me: Discord - @Momin#5959
-- 😄 Pronouns: He.
+- 😄 Pronouns: He
+- website working on
 
-website working on
-
-I don't have many repos that are public, but it's comming!
+I don't have many repos that are public, but it's comming! Because of school I don't have much time to work on projects.
 
 **Languages and Tools:**  
 
@@ -30,6 +28,9 @@ I don't have many repos that are public, but it's comming!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin2005&layout=compact&theme=radical&hide=php,css" />
 </a>
   
+<p align="center">
+	<img src="https://img.shields.io/badge/Discord-Momin%235959-7289DA?style=for-the-badge" />
+</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Momin2005.Momin2005)
 
