@@ -4,12 +4,13 @@
 - 🔭 I’m currently working on a advanced Calculator with a friend.
 - 🌱 I’m currently learning more about machine learning.
 - 🤔 I’m looking for help with AI.
-- 💬 Ask me about Python or any python related stuff.
-- 📫 How to reach me: [Discord - @Momin#5959
+- 💬 Ask me about Python or any games related stuff.
+- 📫 How to reach me: Discord - @Momin#5959
 - 😄 Pronouns: He.
 
 website working on
 
+I don't have many repos that are public, but it's comming!
 
 **Languages and Tools:**  
 
