@@ -23,9 +23,8 @@ I don't have many repos that are public, but it's comming! Because of school I d
 <a href="https://github.com/iampawan/AdvancedCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Momin2005&repo=AdvancedCalculator&theme=dark" />
  
-
 <a href="https://github.com/Momin2005/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin2005&layout=compact&theme=radical&hide=php,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin2005&layout=compact&theme=dark&hide=php,css" />
 </a>
   
 <p align="center">
