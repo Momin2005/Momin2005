@@ -1,7 +1,7 @@
 ## Yo, I'm Momin 👋
 
 
-- 🔭 I’m currently working on a advanced Calculator with a friend.
+- 🔭 I’m currently working on an advanced Calculator with a friend.
 - 🌱 I’m currently learning more about machine learning.
 - 🤔 I’m looking for help with AI.
 - 💬 Ask me about Python or any games related stuff.
