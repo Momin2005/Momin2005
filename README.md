@@ -1,11 +1,9 @@
 ## Yo, I'm Momin 👋
 
 
-- 🔭 I’m currently working on an advanced Calculator with a friend.
-- 🌱 I’m currently learning more about machine learning.
-- 🤔 I’m looking for help with AI.
+- 🔭 I’m currently working on a sandbox platformer in pygame?
+- 🌱 I’m currently learning more about gamedev.
 - 💬 Ask me about Python or any games related stuff.
-- 😄 Pronouns: He
 - website working on
 
 I don't have many repos that are public, but it's comming! Because of school I don't have much time to work on projects.
