@@ -1,8 +1,8 @@
 ## Yo, I'm Momin 👋
 
 
-- I’m currently working on a sandbox platformer in pygame?
-- I’m currently learning more about gamedev.
+- I’m currently working on a sandbox platformer in pygame.
+- I’m currently learning c++.
 
 I don't have many repos that are public, but it's comming! Because of school I don't have much time to work on projects.
 
